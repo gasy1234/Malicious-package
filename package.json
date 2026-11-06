@@ -1,0 +1,11 @@
+{
+  "name": "pmg-malicious-behavior-test",
+  "version": "1.0.0",
+  "description": "Controlled PMG sandbox security test",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "main": "postinstall.js",
+  "keywords": [],
+  "type": "commonjs"
+}
